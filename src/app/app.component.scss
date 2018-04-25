@@ -1,0 +1,14 @@
+.splash-screen {
+    align-items: center;
+    background: #EE6363;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+
+    .welcome {
+        font-weight: 300;
+        font-size: 2em;
+    }
+}
